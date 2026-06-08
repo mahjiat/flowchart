@@ -1,4 +1,4 @@
-# flowchart```mermaid
+```mermaid
 flowchart TD
     Title([🏥 تدفق مريض مركز غزة للسرطان - مجمع ناصر])
     

@@ -45,4 +45,3 @@ flowchart TD
     InWomen --> InVitals
     InMen --> InVitals
 ```
-اعطني الفلو تشارت صورة
